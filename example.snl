@@ -1,3 +1,4 @@
+	# grammar of my SNL language
 	program p
 	type t1 = integer;
 	var integer v1, v2;
