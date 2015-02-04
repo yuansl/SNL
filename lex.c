@@ -1,3 +1,4 @@
+/* A lexical analysis parser */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

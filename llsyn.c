@@ -1,3 +1,4 @@
+/* LL syntax analysis parser */
 #include <stdio.h>
 #include "snl.h"
 

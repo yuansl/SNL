@@ -38,9 +38,7 @@ int main(void)
 	printf("\nrecursive-descend:\n");
 	tree = parse();
 	print_tree(tree);
-	//printf("\nLL(1):\n");
-	//tree = parse(); 
-	//print_tree(tree);
+
 	fclose(fpr);
 	return 0;
 }
